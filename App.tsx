@@ -396,7 +396,7 @@ const Contact = () => (
       </div>
       <div className="flex justify-center space-x-6 mt-8">
         <a href="https://github.com/manovachandramohan" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="text-zinc-400 hover:text-primary transition duration-300 transform hover:-translate-y-1"><GitHubIcon className="w-8 h-8" /></a>
-        <a href="https://linkedin.com/in/manova-chandramohan" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-zinc-400 hover:text-primary transition duration-300 transform hover:-translate-y-1"><LinkedInIcon className="w-8 h-8" /></a>
+        <a href="https://www.linkedin.com/in/manovachandramohan" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-zinc-400 hover:text-primary transition duration-300 transform hover:-translate-y-1"><LinkedInIcon className="w-8 h-8" /></a>
         <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="text-zinc-400 hover:text-primary transition duration-300 transform hover:-translate-y-1"><TwitterIcon className="w-8 h-8" /></a>
       </div>
     </div>
